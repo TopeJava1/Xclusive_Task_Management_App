@@ -1,0 +1,17 @@
+.logman {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: darkslategrey;
+
+
+}
+
+.logman-box {
+    width: 50%;
+    border: black 2px solid;
+    height: 60;
+
+
+}
