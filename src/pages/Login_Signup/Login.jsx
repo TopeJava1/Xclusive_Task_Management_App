@@ -10,7 +10,7 @@ const Login = () => {
             <form action="">
                 <input type='text' placeholder='Enter your Username or Email'/>
                 <input type='password' placeholder='Enter your Password'/>
-                <button></button>
+                <button>Login</button>
 
                 </form>
                 <p> Don't have an account yet? <Link> Signup</Link> </p>
